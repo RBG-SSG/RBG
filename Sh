@@ -2,7 +2,6 @@
 pkg up -y && pkg upgrade -y
 su -c 'setenforce 0'
 time apt install rsync aapt neofetch toilet ncurses-utils tsu openssl-tool ruby wget ccrypt dialog -y
-gem install lolcat
 tsudo "wget https://raw.githubusercontent.com/RBG-SSG/RBG/master/Sh"/RBG.sh -O ./RBG.sh"
 cp -r /data/data/com.termux/files/home/REBZILA/RBG.sh /data/data/com.termux/files/home
 tsu -c chmod 777 /data/data/com.termux/files/home/RBG.sh
