@@ -14,4 +14,4 @@ echo "
 ─██████──██████████─████████████████─██████████████─
 ────────────────────────────────────────────────────
 "
-rm -rf /data/data/com.termux/files/home/REBZILA && rm -rf /data/data/com.termux/files/home/RBG.sh && git clone https://github.com/RBG-SSG/REBZILA.git && cp -r /data/data/com.termux/files/home/REBZILA/RBG.sh /data/data/com.termux/files/home && chmod 777 /data/data/com.termux/files/home/RBG.sh && echo "YOU ARE ALL DONE NOW TYPE" && echo "su enter then sh RBG.sh enter" && tsu
+rm -rf /data/data/com.termux/files/home/REBZILA && rm -rf /data/data/com.termux/files/home/RBG.sh && git clone https://github.com/RBG-SSG/REBZILA.git && cp -r /data/data/com.termux/files/home/REBZILA/RBG.sh /data/data/com.termux/files/home && chmod 777 /data/data/com.termux/files/home/RBG.sh && echo "YOU ARE ALL DONE NOW TYPE" && echo "type sh RBG.sh enter" && tsu
