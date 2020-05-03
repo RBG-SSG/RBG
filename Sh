@@ -1,6 +1,6 @@
 echo "TERMINAL UNDER MAINTANCE BY BTS_SSG. ITS UPDATEING."
 echo "SERVER WILL BACK ONLINE ON 12 AM BD TIME."
-exit 0
+esac
 echo "
 ────────────────────────────────────────────────────
 ─████████████████───██████████████───██████████████─
