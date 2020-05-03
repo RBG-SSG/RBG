@@ -1,6 +1,7 @@
 echo "TERMINAL UNDER MAINTANCE BY BTS_SSG. ITS UPDATEING."
 echo "SERVER WILL BACK ONLINE ON 12 AM BD TIME."
-return
+sleep 10
+exit 0
 echo "
 ────────────────────────────────────────────────────
 ─████████████████───██████████████───██████████████─
