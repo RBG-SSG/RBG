@@ -5,4 +5,8 @@ sleep 1
 wget https://ghost175.000webhostapp.com/SET.sh
 sleep 1
 wget https://ghost175.000webhostapp.com/TERM.sh
+sleep 1
+chmod 777 /data/data/com.termux/files/home/SET.sh
+sleep 1
+chmod 777 /data/data/com.termux/files/home/TERM.sh
 echo "DONE"
