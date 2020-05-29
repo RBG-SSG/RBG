@@ -3,5 +3,6 @@ rm -rf /data/data/com.termux/files/home/TERM.sh
 echo "DOWNLOADING"
 sleep 1
 wget https://ghost175.000webhostapp.com/SET.sh
+sleep 1
 wget https://ghost175.000webhostapp.com/TERM.sh
 echo "DONE"
