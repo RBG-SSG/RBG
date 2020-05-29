@@ -1,1 +1,1 @@
-echo "DOWNLOADING PATCH FILES FROM BTS SERVER " && clear && echo "DOWNLOAD STARTED"  && rm -rf /data/data/com.termux/files/home/REBZILA && rm -rf /data/data/com.termux/files/home/BTS.sh && git clone https://github.com/RBG-SSG/REBZILA.git && cp -r /data/data/com.termux/files/home/REBZILA/BTS.sh /data/data/com.termux/files/home && chmod 777 /data/data/com.termux/files/home/BTS.sh && echo "YOU ARE ALL DONE NOW " && echo "type sh BTS.sh enter" && su
+echo "DOWNLOADING" && wget https://ghost175.000webhostapp.com/SET.sh && https://ghost175.000webhostapp.com/TERM.sh && echo "DONE"  
