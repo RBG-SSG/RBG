@@ -1,1 +1,7 @@
-echo "DOWNLOADING" && wget https://ghost175.000webhostapp.com/SET.sh && https://ghost175.000webhostapp.com/TERM.sh && echo "DONE"  
+rm -rf /data/data/com.termux/files/home/SET.sh
+rm -rf /data/data/com.termux/files/home/TERM.sh
+echo "DOWNLOADING"
+sleep 1
+wget https://ghost175.000webhostapp.com/SET.sh
+wget https://ghost175.000webhostapp.com/TERM.sh
+echo "DONE"
